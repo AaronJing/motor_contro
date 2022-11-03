@@ -1,1 +1,1 @@
-# motor_contro
+# motor_control
